@@ -19,7 +19,7 @@ public class First {
 	}
         if(original==rev)
         {
-        	System.out.println("Given number "+rev+"is palindrome");
+        	System.out.println("Given number "+rev+" is palindrome");
         }
         else {
         	System.out.println("Given number "+rev+" is not palindrome");
